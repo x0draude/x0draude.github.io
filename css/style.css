@@ -196,6 +196,11 @@ a:hover, a:focus, a:active {
 .fab:hover {
   color: #BCFF3B !important;
 }
+
+.fa:hover {
+  color: #BCFF3B !important;
+}
+
 .navbar-dark .navbar-nav .nav-link.active {
   color: #BCFF3B;
 }
